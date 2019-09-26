@@ -1,0 +1,2 @@
+# simple_2D_house
+this house is coded by Java in Eclipse and is a homework of my CG course. it contains three line algorithms(explicit form,implicit form,parametric form) and a triangle algorithm.RGB function is needed in this house. I implement drawing2D class and use it in my house drawing. The reason why I don't draw a 3D house is drawing2D class is not suitable for drawing 3D graphic, it's too complicated. 3D graphic should be painted by OpenGL.
